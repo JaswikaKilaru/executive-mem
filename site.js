@@ -3,7 +3,7 @@ const executiveMembers = [
       firstname: "SAI KUMAR ",
       lastname: "ADIREDDY",
       role: "SAIC Executive Member",
-      imageUrl: "SAIKUMAR_ADIREDDY",
+      imageUrl: "/teams/present/SAIKUMAR_ADIREDDY.jpg",
       details: "3rd year, ME",
     },
 
@@ -11,7 +11,7 @@ const executiveMembers = [
         firstname: "KANIKICHARLA ",
         lastname: "BALA GANESH",
         role: "SAIC Executive Member",
-        imageUrl: "KANIKICHARLA_BALAGANESH",
+        imageUrl: "/teams/present/KANIKICHARLA_BALAGANESH.jpg",
         details: "3rd year, CSE",
       },
 
@@ -20,7 +20,7 @@ const executiveMembers = [
         firstname: "PAPPU ",
         lastname: "SHARMILA",
         role: "SAIC Executive Member",
-        imageUrl: "PAPPU_SHARMILA",
+        imageUrl: "/teams/present/PAPPU_SHARMILA.jpg",
         details: "3rd year, ECE",
       },
 
@@ -28,7 +28,7 @@ const executiveMembers = [
         firstname: "R S B Bikarna ",
         lastname: "Baidya",
         role: "SAIC Executive Member",
-        imageUrl: "Bikarna_Baidya",
+        imageUrl: "/teams/present/Bikarna_Baidya.jpg",
         details: "3rd year, CE",
       },
       
@@ -36,7 +36,7 @@ const executiveMembers = [
         firstname: "Supriyo ",
         lastname: "Mondal",
         role: "SAIC Executive Member",
-        imageUrl: "Supriyo_Mondal",
+        imageUrl: "/teams/present/Supriyo_Mondal.jpg",
         details: "3rd year, CE",
       },
     
@@ -44,7 +44,7 @@ const executiveMembers = [
        firstname: "Vishal ",
        lastname: "Gupta",
        role: "SAIC Executive Member",
-       imageUrl: "Vishal_Gupta",
+       imageUrl: "/teams/present/Vishal_Gupta.jpg",
        details: "3rd year, ME",
       },
     
@@ -52,7 +52,7 @@ const executiveMembers = [
        firstname: "Sanjib ",
        lastname: "Maity",
        role: "SAIC Executive Member",
-       imageUrl: "SANJIB_MAITY",
+       imageUrl: "/teams/present/SANJIB_MAITY.jpg",
        details: "3rd year, MME",
       },
     
@@ -60,14 +60,14 @@ const executiveMembers = [
        firstname: "Swarnim ",
        lastname: "Suryansh",
        role: "SAIC Executive Member",
-       imageUrl: "Swarnim_Suryansh",
+       imageUrl: "/teams/present/Swarnim_Suryansh.jpg",
        details: "3rd year, MME",
       },
      {
       firstname: "Rahul ",
       lastname: "Mondal",
       role: "SAIC Executive Member",
-      imageUrl: "Rahul_Mondal",
+      imageUrl: "/teams/present/Rahul_Mondal.jpg",
       details: "3rd year, ME",
      },
     
@@ -75,7 +75,7 @@ const executiveMembers = [
       firstname: "Soumili ",
       lastname: "Ghosh",
       role: "SAIC Executive Member",
-      imageUrl: "Soumili_Ghosh",
+      imageUrl: "/teams/present/Soumili_Ghosh.jpg",
       details: "3rd year, MME",
      },
 
@@ -83,7 +83,7 @@ const executiveMembers = [
       firstname: "Katravath ",
       lastname: "Navya",
       role: "SAIC Executive Member",
-      imageUrl: "Katravath_Navya",
+      imageUrl: "/teams/present/Katravath_Navya.jpg",
       details: "3rd year, ME",
      },
     
@@ -91,7 +91,7 @@ const executiveMembers = [
       firstname: "Pratishtha ",
       lastname: "Barua",
       role: "SAIC Executive Member",
-      imageUrl: "Pratishtha_Barua",
+      imageUrl: "/teams/present/Pratishtha_Barua.jpg",
       details: "3rd year, EE",
      },
 
@@ -99,7 +99,7 @@ const executiveMembers = [
       firstname: "Soumi ",
       lastname: "Ghosh",
       role: "SAIC Executive Member",
-      imageUrl: "Soumi_Ghosh",
+      imageUrl: "/teams/present/Soumi_Ghosh.jpg",
       details: "3rd year, CH",
      },
 
@@ -107,7 +107,7 @@ const executiveMembers = [
       firstname: "Souhardya ",
       lastname: "Majumder",
       role: "SAIC Executive Member",
-      imageUrl: "Souhardya_Majumder",
+      imageUrl: "/teams/present/Souhardya_Majumder.jpg",
       details: "3rd year, ECE",
      },
 
@@ -115,7 +115,7 @@ const executiveMembers = [
       firstname: "Uppada ",
       lastname: "Sravanthi",
       role: "SAIC Executive Member",
-      imageUrl: "Uppada_Sravanthi",
+      imageUrl: "/teams/present/Uppada_Sravanthi.jpg",
       details: "3rd year, ME",
      },
 
@@ -123,14 +123,14 @@ const executiveMembers = [
       firstname: "Reshmi ",
       lastname: "Saha",
       role: "SAIC Executive Member",
-      imageUrl: "Reshmi_Saha",
+      imageUrl: "/teams/present/Reshmi_Saha.jpg",
       details: "3rd year, ECE",
     },
     {
       firstname: "Deepjyoti ",
       lastname: "Dutta",
       role: "SAIC Executive Member",
-      imageUrl: "Deepjyoti_Dutta",
+      imageUrl: "/teams/present/Deepjyoti_Dutta.jpg",
       details: "3rd year, CE",
      },
     
